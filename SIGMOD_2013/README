@@ -1,0 +1,5 @@
+This project was an Exercise I have done in TU Berlin Winter semester 2024/2025 "Data Integration and Large Scale Analysis"
+https://mboehm7.github.io/teaching/ws2425_dia/DIA_2024_Exercise.pdf (also as file in folder)
+The project report and 3 tasks in respective folders.
+Got a passing score 60/100
+Further imporvements can include effective parcing of the document into in-memory chunks and further optimizing structures for match types.
